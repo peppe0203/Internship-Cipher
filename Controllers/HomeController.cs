@@ -18,12 +18,13 @@ namespace Internship_Cipher.Controllers
             _logger = logger;
         }
 
+        //New views need to be placed below. 
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult About()
         {
             return View();
         }
