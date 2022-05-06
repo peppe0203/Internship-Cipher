@@ -2,6 +2,7 @@
     ViewData["Title"] = "Home Page";
 }
 
+@* camelCase is used for parameter names *@
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
     <p>
@@ -10,8 +11,14 @@
         One button does't work properly but that is the intention. This can clarify the difference in monitoring.
     </p>
     @* Eddit in text that error we use is 404, maby later we kan use an other request *@
-    <button type="button" class="btn btn-primary" onclick="TestCorrectRequest()">Correct request</button>
-    <button type="button" class="btn btn-primary" onclick="TestFalsetRequest()">False request</button>
+    <button type="button" class="btn btn-primary" onclick="TestCorrectRequest()">Correct API request</button>
+    <button type="button" class="btn btn-primary" onclick="TestFalsetRequest()">False API request</button>
+    </br>
+    <hr style="width: 60%; margin-top: 30px">
+    <div class="form-group row d-flex justify-content-center">
+        <input class="form-control" type="text" id="webName" name="webName" placeholder="URL" style="width: 25%">
+        <a type="button" class="btn btn-primary ml-2" href="{webName}">Go to webpage</a>
+    <div>
 </div>
 
 <script>
