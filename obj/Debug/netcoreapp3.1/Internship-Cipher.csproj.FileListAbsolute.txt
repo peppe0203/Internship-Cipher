@@ -1,6 +1,5 @@
 C:\Github\Internship-Cipher\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Github\Internship-Cipher\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Github\Internship-Cipher\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Github\Internship-Cipher\bin\Debug\netcoreapp3.1\Internship-Cipher.exe
 C:\Github\Internship-Cipher\bin\Debug\netcoreapp3.1\Internship-Cipher.deps.json
 C:\Github\Internship-Cipher\bin\Debug\netcoreapp3.1\Internship-Cipher.runtimeconfig.json
@@ -9,7 +8,6 @@ C:\Github\Internship-Cipher\bin\Debug\netcoreapp3.1\Internship-Cipher.dll
 C:\Github\Internship-Cipher\bin\Debug\netcoreapp3.1\Internship-Cipher.pdb
 C:\Github\Internship-Cipher\bin\Debug\netcoreapp3.1\Internship-Cipher.Views.dll
 C:\Github\Internship-Cipher\bin\Debug\netcoreapp3.1\Internship-Cipher.Views.pdb
-C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.csprojAssemblyReference.cache
 C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.AssemblyInfoInputs.cache
 C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.AssemblyInfo.cs
 C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.csproj.CoreCompileInputs.cache
@@ -29,9 +27,10 @@ C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.RazorTarge
 C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.RazorTargetAssemblyInfo.cs
 C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.Views.pdb
 C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\staticwebassets\Internship-Cipher.StaticWebAssets.Manifest.cache
-C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\staticwebassets\Internship-Cipher.StaticWebAssets.xml
 C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.dll
 C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.pdb
 C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.genruntimeconfig.cache
 C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.csproj.CopyComplete
 C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.csproj.AssemblyReference.cache
+C:\Github\Internship-Cipher\obj\Debug\netcoreapp3.1\Internship-Cipher.GeneratedMSBuildEditorConfig.editorconfig
