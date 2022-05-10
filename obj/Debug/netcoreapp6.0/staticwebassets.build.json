@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v5jY/tnEa4ucctJDPSwGuCE/NbsD0n5QFcDNiY6Oqw8=",
+  "Hash": "ux+BWl9LsJJO7bjMxnOWHL+G0ASCnhvzzb7zLFm3GIg=",
   "Source": "Internship-Cipher",
   "BasePath": "_content/Internship-Cipher",
   "Mode": "Default",
@@ -627,6 +627,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Github\\Internship-Cipher\\wwwroot\\logo.jpg",
+      "SourceId": "Internship-Cipher",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Github\\Internship-Cipher\\wwwroot\\",
+      "BasePath": "_content/Internship-Cipher",
+      "RelativePath": "logo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\logo.jpg"
     }
   ]
 }
